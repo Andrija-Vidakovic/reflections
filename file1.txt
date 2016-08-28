@@ -9,12 +9,8 @@ Ovo je 1. fajl koji je dodat projektu
 6
 6.1
 7
-8
-<<<<<<< HEAD
-9.1
-=======
 8.1
 9
->>>>>>> af90940072b2a5393faf18e662ccd2b18fcadd5e
+9.1
 10
 Kraj
